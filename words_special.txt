@@ -1,0 +1,17 @@
+# Veggies
+kale
+parsnips
+Tomatoes
+oranges
+
+# Fruits
+apple
+mango
+oranges
+
+# Meats
+Steak
+Pork
+Hamburgers
+hot dog
+
